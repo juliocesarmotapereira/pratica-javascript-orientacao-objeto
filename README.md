@@ -5,3 +5,4 @@
 - molde (classe) {atributos ou campos ou propriedades};
 - operador new;
 - proteção de atributos usamos "_" para indicar que atributo é privado; 
+- palavra chave this, encapsulamento, proposta de atributos privados, return e early return; 
