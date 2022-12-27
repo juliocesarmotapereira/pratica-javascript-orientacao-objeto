@@ -1,0 +1,22 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "Projeto do Bytebank para seus cliente",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliocesarmotapereira/pratica-javascript-orientacao-objeto.git"
+  },
+  "author": "",
+  "license": "ISC",
+
+  "type": "module",
+
+  "bugs": {
+    "url": "https://github.com/juliocesarmotapereira/pratica-javascript-orientacao-objeto/issues"
+  },
+  "homepage": "https://github.com/juliocesarmotapereira/pratica-javascript-orientacao-objeto#readme"
+}
